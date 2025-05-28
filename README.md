@@ -1,1 +1,2 @@
 # Lab8-Starter
+Graceful degradation and service workers are closely related. Service workers are an essential part of implementing graceful degradation. They allow for a site to provide some functionality even with the presence of connection issues.
